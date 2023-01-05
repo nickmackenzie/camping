@@ -28,3 +28,8 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+.navbarCustom {
+  background-color: rgba(238, 238, 238, 0.129);
+  position: absolute;
+  width: 100vw;
+}
